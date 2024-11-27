@@ -1,14 +1,20 @@
 ---
 id: index
 aliases:
-  - note.tkancf.com
+  - tkan's note
+  - INDEX
+  - HOME
 tags: []
 created: 2024-11-27 22:38
-title: note.tkancf.com
+title: tkan's note
 updated: 2024-11-27 22:38
 ---
 
-# note.tkancf.com
+# HOME
+
+## tech
+
+- [bashで特定の文字列を含むファイルを削除するワンライナー](20241128002544.md)
 
 ## daily
 
