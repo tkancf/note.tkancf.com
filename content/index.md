@@ -1,22 +1,15 @@
 ---
-title: index
-description: 
-aliases: 
-tags: 
-draft: false
-date: 2024-11-25
+id: index
+aliases:
+  - note.tkancf.com
+tags: []
+created: 2024-11-27 22:38
+title: note.tkancf.com
+updated: 2024-11-27 22:38
 ---
 
-# index
+# note.tkancf.com
 
-## 美味しいご飯
+## daily
 
-- [[【野永シェフ】俺のチンジャオロース]]
-
-
-## リンク
-
-- [[daily]]
-- 最近やってる
-    - [[Quartzでメモサイト作成]]
-
+- [2024-11](2024-11.md)
