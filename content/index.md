@@ -6,7 +6,7 @@ aliases:
   - HOME
 tags: []
 created: 2024-11-27 22:38
-title: tkan's note
+title: TKN
 updated: 2024-11-27 22:38
 ---
 
